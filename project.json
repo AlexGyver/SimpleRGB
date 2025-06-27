@@ -1,14 +1,14 @@
 {
-  "name": "AiFrame",
-  "about": "Фоторамка с нейросетью",
-  "version": "1.2",
-  "notes": "Решение проблемы с Кандинским",
+  "name": "SimpleRGB",
+  "about": "Простой RGB контроллер",
+  "version": "1.0",
+  "notes": "Релиз",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/AlexGyver/AiFrame/main/bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/AlexGyver/SimpleRGB/main/bin/firmware.bin",
           "offset": 0
         }
       ]
